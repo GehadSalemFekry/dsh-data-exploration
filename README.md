@@ -1,7 +1,7 @@
 # **DHS Dispatch & Delivery Analysis Project**
 
 ## **🚀 Project Overview**
-This project analyzes **courier dispatching, order assignments, and delivery efficiency** using data from the **TSL-Meituan Dispatch System**. The goal is to uncover patterns, inefficiencies, and opportunities for optimizing the food delivery process.
+This project analyzes **courier dispatching, order assignments, and delivery efficiency** using data from the **TSL-Meituan Dispatch System**. The goal is to uncover patterns, inefficiencies, and opportunities for optimizing the food delivery process. 
 
 ### **📌 Key Objectives**
 - **Understand dispatch trends**: How and when couriers are assigned to orders.
@@ -54,6 +54,7 @@ The project utilizes **four key datasets**:
 ```
 📂 dsh-data-exploration
 │── courier_dispatch_analysis.ipynb       # Primary analysis notebook
+│── DHS Dispatch Data Analysis.pdf        # Presentation
 │── README.md                             # Project documentation
 │── requirements.txt                      # Dependencies and libraries
 ```
